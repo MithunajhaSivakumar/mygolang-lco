@@ -25,5 +25,5 @@ func main() {
 	fmt.Printf("Variable is of type: %T \n", anotherVariable)
 
 	// implicit way of declaring varible
-	var website = "Learn"
+	// var website = "Learn"
 }
